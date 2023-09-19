@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @GianeCR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GianeCR/GianeCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Pantalla completa
+ - ![image](https://github.com/GianeCR/GianeCR/assets/125288026/48713dfe-3867-446d-8d53-ffcad2115490)
+- Se adecuada hasta cierto tamaño de pantalla
+- ![image](https://github.com/GianeCR/GianeCR/assets/125288026/80bd91cc-7645-44cb-ab83-acd2fa4b2fc6)
+- Cambio de botones
+- ![image](https://github.com/GianeCR/GianeCR/assets/125288026/d583cfae-528a-451c-8b6f-16784786ed2a)
+- Diseño de Login
+- ![image](https://github.com/GianeCR/GianeCR/assets/125288026/a3b6a129-d77c-4a8e-ad44-0fa882deaea2)
+- ![image](https://github.com/GianeCR/GianeCR/assets/125288026/f857be86-4ccb-4d7c-8449-d9a8b1b9c1bd)
