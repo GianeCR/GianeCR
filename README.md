@@ -1,4 +1,21 @@
-- 👋 Hi, I’m @GianeCR
+# Página de Inicio de Sesión Responsiva
+
+Este es un proyecto de página de inicio de sesión responsiva desarrollado utilizando HTML y CSS. La página de inicio de sesión es parte de un sitio web ficticio llamado "XiaMel" que ofrece servicios de desarrollo de software.
+
+## Características
+
+- Diseño responsivo que se adapta a diferentes tamaños de pantalla.
+- Uso de fuentes personalizadas de Google Fonts.
+- Imágenes de fondo con efecto de desenfoque.
+- Iconos de redes sociales.
+
+## Uso
+
+1. Clona este repositorio a tu máquina local.
+2. Abre el archivo `index.html` en tu navegador para ver la página en acción.
+3. Puedes personalizar el contenido y los estilos editando los archivos HTML y CSS según tus necesidades.
+
+## Capturas de Pantalla
 - Pantalla completa
  - ![image](https://github.com/GianeCR/GianeCR/assets/125288026/48713dfe-3867-446d-8d53-ffcad2115490)
 - Se adecuada hasta cierto tamaño de pantalla
